@@ -2,7 +2,6 @@
 public class Runner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String val = "ioenxxxqropr..o02f,34lf.l"; //used to encript
 		PlayFairCypherRunner x = new PlayFairCypherRunner(val); //create a new cypher
 		String Em = x.encrypt("xanthinars guide is worderous!"); //encripting the string

@@ -1,8 +1,6 @@
 import java.util.ArrayList;
 
 public class PlayFairCypherRunner {
-	private static final int ROW_SIZE = 6;
-	private static final int COL_SIZE = 6;
 	private static String[][] grid;
 
 	public PlayFairCypherRunner(String phrase) {
